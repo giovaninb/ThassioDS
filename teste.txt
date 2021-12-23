@@ -1,1 +1,2 @@
-Teste de arquivo 1
+# Exemplo de arquivo teste
+Teste de arquivo 2
